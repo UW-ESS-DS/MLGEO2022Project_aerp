@@ -1,0 +1,36 @@
+# ================= DQRFIT RESULTS ================
+# INPUT FILE: series/VNTG.rad
+# OUTPUT: LDETRENDED
+# FILTER FUNCTION: f(t)
+# f(t)=+line(t)
+# line(t)=+P 1+P 2*t
+# heav(t)=(t<0?0:1)
+# TOTAL OBSERVATIONS MTOT=   13
+# INITIAL TIME INTERVAL= 2022.0827 - 2001.6257 = 20.4570
+# TOTAL OBSERVATIONS AFTER PREFILTER M=   13
+# TIME-SPAN=    0.0000 -    0.0000 =  0.0000
+# OBSERVATIONS: USED M=    13 REJECTED MTOT-M=     0 %USED=  100.0000
+# N=  2 PARAMETERS
+# MAXSIG= 175.00000
+# MAXRES= 137.19004
+# SCALE FACTOR FOR LENGTHS: SCL=  10.00000
+# SCALE FACTOR FOR SIGMAS: SCLSIG=   1.00000
+# CHI^2=    327.563 DOF=    11 CHI^2/DOF=  29.77847
+# RMS=     39.004 SDEV=     40.420 MEAN=    3.63301
+#  P #       PARAMETER +-    SIGMA %error PARAMETER NAME
+# P 1 =      5155.24630 +- 4120.613  79.93 YZERO                              
+# P 2 =        -2.59762 +-    2.041  78.56 SLOPE                              
+#       T            LDETRENDED       SIG_OBS
+     2001.62568       -11.76882        52.21770
+     2012.73374         2.19672        29.62041
+     2012.73604        -0.24932        33.95324
+     2020.32581       137.19004        42.88083
+     2020.32854       -13.09287        44.40878
+     2020.33128       -12.49276        44.10319
+     2021.18277       -11.97490        30.81003
+     2021.18548       -11.34485        28.73092
+     2021.18822        -9.01473        28.64907
+     2021.19096        -7.12562        28.67635
+     2022.07806        -6.52028        29.61495
+     2022.08076        -3.42525        29.58767
+     2022.08270        -5.14823        48.75799

@@ -1,0 +1,41 @@
+# ================= DQRFIT RESULTS ================
+# INPUT FILE: series/WIFE.rad
+# OUTPUT: LDETRENDED
+# FILTER FUNCTION: f(t)
+# f(t)=+line(t)
+# line(t)=+P 1+P 2*t
+# heav(t)=(t<0?0:1)
+# TOTAL OBSERVATIONS MTOT=   18
+# INITIAL TIME INTERVAL= 2014.6913 - 2001.7221 = 12.9692
+# TOTAL OBSERVATIONS AFTER PREFILTER M=   18
+# TIME-SPAN=    0.0000 -    0.0000 =  0.0000
+# OBSERVATIONS: USED M=    18 REJECTED MTOT-M=     0 %USED=  100.0000
+# N=  2 PARAMETERS
+# MAXSIG= 175.00000
+# MAXRES= 192.47035
+# SCALE FACTOR FOR LENGTHS: SCL=  10.00000
+# SCALE FACTOR FOR SIGMAS: SCLSIG=   1.00000
+# CHI^2=     26.875 DOF=    16 CHI^2/DOF=   1.67967
+# RMS=     56.701 SDEV=     58.251 MEAN=    3.20370
+#  P #       PARAMETER +-    SIGMA %error PARAMETER NAME
+# P 1 =       550.66519 +- 3342.868 607.06 YZERO                              
+# P 2 =        -0.28229 +-    1.663 589.07 SLOPE                              
+#       T            LDETRENDED       SIG_OBS
+     2001.72211        -8.99831        18.10559
+     2009.75770        12.33608        13.76091
+     2009.76044        11.77035        15.05328
+     2009.76318        14.61533        14.26885
+     2009.76591         3.20380        15.03899
+     2009.76865         0.12003        15.70990
+     2009.77139        -0.84294        15.39281
+     2009.77413        -3.39740        16.06013
+     2010.69952      -131.26454        92.17063
+     2010.70226        -3.39515        14.22559
+     2010.70500        15.78991        13.40863
+     2010.70773        -2.76220        15.61152
+     2011.69884       -39.68573        16.33811
+     2011.70157       -26.18064        15.77522
+     2011.70431         3.66182        24.71159
+     2014.68583       192.47035      1196.44835
+     2014.68857        -0.83000        17.28729
+     2014.69131        21.05579        21.18504

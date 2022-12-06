@@ -1,0 +1,36 @@
+# ================= DQRFIT RESULTS ================
+# INPUT FILE: series/PLAI.lon
+# OUTPUT: LDETRENDED
+# FILTER FUNCTION: f(t)
+# f(t)=+line(t)
+# line(t)=+P 1+P 2*t
+# heav(t)=(t<0?0:1)
+# TOTAL OBSERVATIONS MTOT=   13
+# INITIAL TIME INTERVAL= 2020.3501 - 2001.6181 = 18.7321
+# TOTAL OBSERVATIONS AFTER PREFILTER M=   13
+# TIME-SPAN=    0.0000 -    0.0000 =  0.0000
+# OBSERVATIONS: USED M=    13 REJECTED MTOT-M=     0 %USED=  100.0000
+# N=  2 PARAMETERS
+# MAXSIG=  35.00000
+# MAXRES=   6.36049
+# SCALE FACTOR FOR LENGTHS: SCL=  10.00000
+# SCALE FACTOR FOR SIGMAS: SCLSIG=   1.00000
+# CHI^2=     94.809 DOF=    11 CHI^2/DOF=   8.61899
+# RMS=      3.766 SDEV=      3.880 MEAN=    0.53579
+#  P #       PARAMETER +-    SIGMA %error PARAMETER NAME
+# P 1 =     -5383.45486 +-  340.395   6.32 YZERO                              
+# P 2 =         2.66201 +-    0.169   6.36 SLOPE                              
+#       T            LDETRENDED       SIG_OBS
+     2001.61807         1.26483         3.92518
+     2001.62080         0.12754         3.81656
+     2001.62354         0.61625         3.83711
+     2001.62583        -1.34183         4.84996
+     2012.72107         6.36049         6.77879
+     2012.72279         3.80892         3.43784
+     2012.72547         3.14177         3.46426
+     2013.70294        -6.52925         3.49362
+     2013.70540        -7.72681         3.90169
+     2020.34232         1.66464         5.43419
+     2020.34496         1.46059         5.11125
+     2020.34770         2.06330         5.07896
+     2020.35014         2.05483         6.27970

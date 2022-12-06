@@ -1,0 +1,35 @@
+# ================= DQRFIT RESULTS ================
+# INPUT FILE: series/TS16.lat
+# OUTPUT: LDETRENDED
+# FILTER FUNCTION: f(t)
+# f(t)=+line(t)
+# line(t)=+P 1+P 2*t
+# heav(t)=(t<0?0:1)
+# TOTAL OBSERVATIONS MTOT=   12
+# INITIAL TIME INTERVAL= 2014.6913 - 2003.6824 = 11.0089
+# TOTAL OBSERVATIONS AFTER PREFILTER M=   12
+# TIME-SPAN=    0.0000 -    0.0000 =  0.0000
+# OBSERVATIONS: USED M=    12 REJECTED MTOT-M=     0 %USED=  100.0000
+# N=  2 PARAMETERS
+# MAXSIG=  35.00000
+# MAXRES=  57.68554
+# SCALE FACTOR FOR LENGTHS: SCL=  10.00000
+# SCALE FACTOR FOR SIGMAS: SCLSIG=   1.00000
+# CHI^2=     22.834 DOF=    10 CHI^2/DOF=   2.28343
+# RMS=     16.925 SDEV=     17.020 MEAN=    4.57077
+#  P #       PARAMETER +-    SIGMA %error PARAMETER NAME
+# P 1 =     -5617.19897 +-  627.103  11.16 YZERO                              
+# P 2 =         2.81464 +-    0.312  11.07 SLOPE                              
+#       T            LDETRENDED       SIG_OBS
+     2003.68241         8.15258         8.00703
+     2003.68515        -0.87443         3.10948
+     2011.69610        -3.42362        16.22195
+     2011.69884        -0.92667         2.92896
+     2011.70157         1.00724         2.87942
+     2011.70431        -1.65533         3.86931
+     2013.68925        -4.64126        14.62897
+     2013.69199        -1.03415         2.81446
+     2013.69473         0.86372         3.36849
+     2014.68583        57.68554        20.55519
+     2014.68857         1.00861         2.92288
+     2014.69131        -1.31306         3.53491

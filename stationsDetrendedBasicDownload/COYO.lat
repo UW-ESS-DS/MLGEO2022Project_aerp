@@ -1,0 +1,34 @@
+# ================= DQRFIT RESULTS ================
+# INPUT FILE: series/COYO.lat
+# OUTPUT: LDETRENDED
+# FILTER FUNCTION: f(t)
+# f(t)=+line(t)
+# line(t)=+P 1+P 2*t
+# heav(t)=(t<0?0:1)
+# TOTAL OBSERVATIONS MTOT=   11
+# INITIAL TIME INTERVAL= 2006.6393 - 2006.6119 =  0.0274
+# TOTAL OBSERVATIONS AFTER PREFILTER M=   11
+# TIME-SPAN= 2006.6393 - 2006.6119 =  0.0274
+# OBSERVATIONS: USED M=    11 REJECTED MTOT-M=     0 %USED=  100.0000
+# N=  2 PARAMETERS
+# MAXSIG=  35.00000
+# MAXRES=   1.62668
+# SCALE FACTOR FOR LENGTHS: SCL=  10.00000
+# SCALE FACTOR FOR SIGMAS: SCLSIG=   1.00000
+# CHI^2=      4.952 DOF=     9 CHI^2/DOF=   0.55026
+# RMS=      1.038 SDEV=      1.089 MEAN=   -0.02065
+#  P #       PARAMETER +-    SIGMA %error PARAMETER NAME
+# P 1 =   -210007.70117 +- ********  37.81 YZERO                              
+# P 2 =       104.61757 +-   39.575  37.83 SLOPE                              
+#       T            LDETRENDED       SIG_OBS
+     2006.61191         1.19260         1.13505
+     2006.61465         0.38835         1.12520
+     2006.61739         0.42416         1.12969
+     2006.62012        -2.23258         1.17900
+     2006.62286        -1.43678         1.13142
+     2006.62560         0.28321         1.12696
+     2006.62834        -0.38527         1.13374
+     2006.63107         0.30571         1.12318
+     2006.63381         1.62668         1.11865
+     2006.63655        -0.27824         1.12741
+     2006.63929        -0.11496         1.18816

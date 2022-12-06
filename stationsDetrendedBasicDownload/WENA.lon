@@ -1,0 +1,41 @@
+# ================= DQRFIT RESULTS ================
+# INPUT FILE: series/WENA.lon
+# OUTPUT: LDETRENDED
+# FILTER FUNCTION: f(t)
+# f(t)=+line(t)
+# line(t)=+P 1+P 2*t
+# heav(t)=(t<0?0:1)
+# TOTAL OBSERVATIONS MTOT=   18
+# INITIAL TIME INTERVAL= 2022.2231 - 2008.3176 = 13.9055
+# TOTAL OBSERVATIONS AFTER PREFILTER M=   18
+# TIME-SPAN=    0.0000 -    0.0000 =  0.0000
+# OBSERVATIONS: USED M=    18 REJECTED MTOT-M=     0 %USED=  100.0000
+# N=  2 PARAMETERS
+# MAXSIG=  35.00000
+# MAXRES=   4.57585
+# SCALE FACTOR FOR LENGTHS: SCL=  10.00000
+# SCALE FACTOR FOR SIGMAS: SCLSIG=   1.00000
+# CHI^2=    129.513 DOF=    16 CHI^2/DOF=   8.09457
+# RMS=     13.812 SDEV=     13.705 MEAN=   -3.65948
+#  P #       PARAMETER +-    SIGMA %error PARAMETER NAME
+# P 1 =     -6046.49682 +-  417.409   6.90 YZERO                              
+# P 2 =         2.97748 +-    0.207   6.95 SLOPE                              
+#       T            LDETRENDED       SIG_OBS
+     2008.31760         1.35765         3.41980
+     2008.32017         0.20501         3.52507
+     2014.00250        -6.47603         8.17680
+     2014.00397         0.64858         3.43119
+     2015.17047        -3.09364         3.36006
+     2015.17316        -3.29466         3.39135
+     2017.92862        -3.75896         7.68460
+     2017.93018        -0.77462         3.17513
+     2017.93292         0.08323         3.16944
+     2017.93566         0.10708         3.18651
+     2017.93732        -1.89088         7.36880
+     2018.97184       -57.43515        20.08922
+     2018.97330         3.92851         3.16944
+     2018.97604         3.35236         3.18651
+     2018.97856         4.57585         3.45395
+     2022.21765        -1.78749         3.17228
+     2022.22039        -0.79964         3.17513
+     2022.22313        -0.81779         3.20927
